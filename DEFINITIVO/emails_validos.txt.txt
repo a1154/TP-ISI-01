@@ -1,0 +1,13 @@
+Nº do Utente;Nome do Utente;Sexo;Data de Nascimento;Data Admissão;Codigo da Valencia;Designacao da Valencia;Telemóvel;Nome do Responsável;Morada;Código Postal;Localidade;E-mail;Telefone;Telemóvel_1;Rendimento Total (€);Despesas (€);Nº de Elementos no Agregado;Cálculo ((Rendimento - Despesas) / Nº de Elementos);Comparticipacao Familiar;email_valid
+14;Cláudia Fernandes;F;1940/06/29 00:00:00.000;12/08/2020;101;LAR;912356789;Ricardo Fernandes;Rua do Mar, 44;1200-333;Cascais;ricardo.fernandes@mail.pt;211567123;912356789;2750;930,00;3;606,67;60,67;Y
+23;Rafael Lopes;M;1934/12/03 00:00:00.000;28/07/2020;101;LAR;917654321;Eduardo Lopes;Rua da Praia, 41;1700-456;Cascais;eduardo.lopes@mail.pt;217654321;917654321;2800;1335,00;3;488,33;48,83;Y
+1;João Silva;M;1949/09/18 00:00:00.000;05/10/2022;101;LAR;912345678;Carla Silva;Rua das Flores, 123;1000-456;Lisboa;carla.silva@mail.pt;211234567;912345678;2500;1000,00;4;375,00;37,50;Y
+6;Helena Martins;F;1941/12/25 00:00:00.000;13/02/1989;101;LAR;919876543;José Martins;Rua da Esperança, 45;1200-345;Lisboa;jose.martins@mail.pt;211567890;919876543;3200;1150,00;2;1025,00;102,50;Y
+24;Vanessa Mendes;F;1941/12/28 00:00:00.000;14/04/1989;101;LAR;919234567;Miguel Mendes;Rua da Paz, 77;1200-789;Lisboa;miguel.mendes@mail.pt;211234543;919234567;2900;1235,00;4;416,25;41,62;Y
+11;André Silva;M;1934/12/09 00:00:00.000;17/08/2020;101;LAR;915987654;Fernanda Silva;Avenida da Liberdade, 98;1400-234;Lisboa;fernanda.silva@mail.pt;213987654;915987654;2900;795,00;2;1052,50;105,25;Y
+16;Tiago Santos;M;1930/06/09 00:00:00.000;10/10/2022;101;LAR;916789543;Tiago Santos;Rua da Felicidade, 101;1600-111;Lisboa;tiago.santos@mail.pt;216789543;916789543;2900;1020,00;2;940,00;94,00;Y
+17;Inês Carvalho;F;1934/12/06 00:00:00.000;07/08/2020;101;LAR;911234567;Inês Carvalho;Rua do Norte, 88;1700-765;Lisboa;ines.carvalho@mail.pt;217345678;911234567;3000;1065,00;5;387,00;38,70;Y
+9;Fernando Rocha;M;1935/08/03 00:00:00.000;23/02/1989;101;LAR;917123456;Margarida Rocha;Travessa do Norte, 56;1800-234;Loures;margarida.rocha@mail.pt;219876543;917123456;3000;850,00;3;716,67;71,67;Y
+33;Patrícia Pinto;F;1935/08/07 00:00:00.000;14/05/1989;101;LAR;919345678;João Pinto;Rua do Parque, 13;1600-654;Oeiras;patricia.pinto@mail.pt;217985474;917324510;2150;335,00;3;605,00;60,50;Y
+22;Alice Rodrigues;F;1930/06/10 00:00:00.000;12/10/2022;101;LAR;912456789;Joana Rodrigues;Rua do Horizonte, 32;1800-234;Oeiras;joana.rodrigues@mail.pt;219456789;912456789;2700;1290,00;3;470,00;47,00;Y
+15;Bruno Monteiro;M;1935/08/04 00:00:00.000;15/03/1989;101;LAR;914567234;Carla Monteiro;Rua das Oliveiras, 67;1500-876;Sintra;carla.monteiro@mail.pt;214123765;914567234;2800;975,00;4;456,25;45,62;Y

@@ -1,0 +1,12 @@
+Nº do Utente;Nome do Utente;Sexo;Data de Nascimento;Data Admissão;Codigo da Valencia;Designacao da Valencia;Telemóvel;Nome do Responsável;Morada;Código Postal;Localidade;E-mail;Telefone;Telemóvel_1;Rendimento Total (€);Despesas (€);Nº de Elementos no Agregado;Cálculo ((Rendimento - Despesas) / Nº de Elementos);Comparticipacao Familiar;CodigoPostall_valid
+32;José Antunes;M;1940/06/20 00:00:00.000;13/07/2020;101;LAR;911234876;Clara Antunes;Rua das Rosas, 88;1500-999;Cascais;clara.antunes@mail.pt;214567876;911234876;2600;435,00;3;721,67;72,17;N
+3;António Ferreira;M;1935/08/02 00:00:00.000;03/02/1989;101;LAR;913456789;Ana Ferreira;Travessa do Sol, 45;3000-789;Coimbra;ana.ferreira@mail.pt;231234567;924567890;2500;800,00;3;566,67;56,67;N
+13;Hugo Sousa;M;1949/09/20 00:00:00.000;09/10/2022;101;LAR;916234567;Alice Sousa;Rua da Alegria, 22;1100-876;Lisboa;alice.sousa@mail.pt;214567123;916234567;3100;885,00;3;738,33;73,83;N
+19;Diogo Costa;M;1949/09/21 00:00:00.000;11/10/2022;101;LAR;913876543;Manuel Costa;Rua do Campo, 10;1200-654;Lisboa;manuel.costa@mail.pt;211876543;913876543;2350;1155,00;4;298,75;29,88;N
+27;Rita Matos;F;1935/08/06 00:00:00.000;24/04/1989;101;LAR;912134567;Helena Matos;Rua da Liberdade, 99;1300-234;Lisboa;helena.matos@mail.pt;212134567;912134567;2900;935,00;3;655,00;65,50;N
+28;Leonardo Faria;M;1930/06/11 00:00:00.000;14/10/2022;101;LAR;915234567;Gustavo Faria;Avenida Central, 67;1400-876;Lisboa;gustavo.faria@mail.pt;213234567;915234567;2550;835,00;4;428,75;42,88;N
+21;Manuel Ferreira;M;1935/08/05 00:00:00.000;04/04/1989;101;LAR;914567123;Luís Ferreira;Rua do Tejo, 23;1600-876;Lisboa;luis.ferreira@mail.pt;216345678;914567123;2650;1245,00;4;351,25;35,12;N
+26;Pedro Ribeiro;M;1940/06/23 00:00:00.000;23/07/2020;101;LAR;914345678;António Ribeiro;Rua dos Pinheiros, 18;1700-876;Lisboa;antonio.ribeiro@mail.pt;217345987;914345678;2250;1035,00;3;405,00;40,50;N
+29;Sandra Silva;F;1934/11/30 00:00:00.000;18/07/2020;101;LAR;913456789;Ana Silva;Rua do Sol, 22;1500-765;Oeiras;ana.silva@mail.pt;219234678;913456789;2600;735,00;3;621,67;62,17;N
+34;Miguel Cardoso;M;1930/06/12 00:00:00.000;16/10/2022;101;LAR;913654789;Fernando Moura;Rua do areal;1600-6554;Oeiras;fernando.moura@mail.pt;219876543;914678432;2800;235,00;4;641,25;64,12;N
+2;Maria Oliveira;F;1940/07/05 00:00:00.000;01/09/2020;101;LAR;917654321;José Oliveira;Avenida Central, 987;2000-123;Porto;jose.oliveira@mail.pt;221234567;913654789;3000;800,00;5;440,00;44,00;N

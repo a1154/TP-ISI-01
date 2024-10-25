@@ -1,0 +1,7 @@
+Nº do Utente;Nome do Utente;Sexo;Data de Nascimento;Data Admissão;Codigo da Valencia;Designacao da Valencia;Telemóvel;Nome do Responsável;Morada;Código Postal;Localidade;E-mail;Telefone;Telemóvel_1;Rendimento Total (€);Despesas (€);Nº de Elementos no Agregado;Cálculo ((Rendimento - Despesas) / Nº de Elementos);Comparticipacao Familiar
+35;Sónia Oliveira;F;1934/11/27 00:00:00.000;08/07/2020;101;LAR;917876543;Ana Abres;Rua do Nabal;1500-999;Cascais;ana.abreu@mail.pt;214567876;911234876;2450;135,00;5;463,00;46,30
+5;Luís Santos;M;1934/12/12 00:00:00.000;27/08/2020;101;LAR;916543210;Marta Santos;Largo das Oliveiras, 88;5000-654;Faro;marta.santos@mail.pt;289654321;916543210;3000;1200,00;3;600,00;60,00
+25;Carla Teixeira;F;1949/09/22 00:00:00.000;13/10/2022;101;LAR;916543789;Fernanda Teixeira;Avenida dos Cravos, 29;1500-321;Loures;fernanda.teixeira@mail.pt;219987654;916543789;2700;1135,00;5;313,00;31,30
+31;Luísa Fernandes;F;1949/09/23 00:00:00.000;15/10/2022;101;LAR;914678432;David Fernandes;Avenida do Mar, 45;1600-654;Oeiras;david.fernandes@mail.pt;219876543;914678432;2800;535,00;4;566,25;56,62
+18;Joana Almeida;F;1941/12/27 00:00:00.000;25/03/1989;101;LAR;912567890;Sofia Almeida;Avenida das Palmeiras, 56;1800-222;Oeiras;sofia.almeida@mail.pt;219234567;912567890;2800;1110,00;4;422,50;42,25
+20;Filipa Marques;F;1940/06/26 00:00:00.000;02/08/2020;101;LAR;915678432;Patrícia Marques;Rua da Saudade, 12;1500-345;Sintra;patricia.marques@mail.pt;214567234;915678432;3000;1200,00;3;600,00;60,00

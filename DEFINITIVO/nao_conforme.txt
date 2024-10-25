@@ -1,0 +1,2 @@
+Nº do Utente;Nome do Utente;Sexo;Data de Nascimento;Data Admissão;Codigo da Valencia;Designacao da Valencia;Telemóvel;Nome do Responsável;Morada;Código Postal;Localidade;E-mail;Telefone;Telemóvel_1;Rendimento Total (€);Despesas (€);Nº de Elementos no Agregado;Cálculo ((Rendimento - Despesas) / Nº de Elementos);Comparticipacao Familiar
+32;José Antunes;M;1940/06/20 00:00:00.000;2020/07/13 00:00:00.000;101;LAR;911234876;Clara Antunes;Rua das Rosas, 88;1500-999;Cascais;clara.antunes@mail.pt;214567876;911234876;2600;435,00;3;721,67;72,17
